@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Sangeetha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
-![Sangeetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangeetha-007&show_icons=true&theme=radical)
+![Sangeetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangeetha-007&show_icons=true&theme=outrun)
