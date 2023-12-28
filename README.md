@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 (![Sangeetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangeetha-007&show_icons=true&theme=outrun&include_all_commits=true)
 
-![](https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet) (Since December 27,2023)
+![](https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet) (Since December 27, 2023)
 
