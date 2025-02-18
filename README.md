@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![Sangeetha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Sangeetha-007&theme=outrun)
+<!--![Sangeetha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Sangeetha-007&theme=outrun) -->
 
 
-
-![](https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet) (Since December 27, 2023)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha-007&hide_progress=true)
+
+![](https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet) (Since December 27, 2023)
 
