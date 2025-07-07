@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <p align="left">
 <div align="left">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha-007&hide_progress=true)
+</div>
 
 <p align="right">
 <div align="right">
