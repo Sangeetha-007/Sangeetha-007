@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--![Sangeetha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Sangeetha-007&theme=outrun) -->
 
 
-<p align="left">
 <div align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha-007&hide_progress=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha-007&hide_progress=true" alt="Top Langs" />
 </div>
+
 
 <p align="right">
 <div align="right">
