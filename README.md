@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sangeetha.
 ### ✨ I am a Data Science graduate student. Feel free to contact me to work on projects!
-### My Portfolio: https://sangeetha-007.github.io/my_portfolio/
+### My Portfolio: (https://sangeetha.pages.dev/)
 <!--
 **Sangeetha-007/Sangeetha-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
