@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 -->
 <!--![Sangeetha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Sangeetha-007&theme=outrun) -->
 
-![](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
 <div align="center">
+  
+  ![](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha-007&hide_progress=true" alt="Top Langs" />
 </div>
 
