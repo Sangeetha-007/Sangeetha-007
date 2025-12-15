@@ -24,7 +24,8 @@ Here are some ideas to get you started:
   
   ![](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha-007&hide_progress=true" alt="Top Langs" />
-  <iframe src="https://giphy.com/embed/j8XOFLN4DPXswRPOqS" width="400" height="400" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/PudgyMemez-science-robot-nerd-j8XOFLN4DPXswRPOqS">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/j8XOFLN4DPXswRPOqS/giphy.gif" width="400" height="400" />
+
   
 </div>
 
