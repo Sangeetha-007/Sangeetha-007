@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 </div>
 -->
 
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet) <!--!(Since December 27, 2023) -->
-
+</p>
