@@ -1,5 +1,6 @@
-### Hi there 👋 I am Sangeetha.
-### ✨ I am a Data Science graduate student. Feel free to contact me to work on projects!
+### Hi there 👋 I am Sangeetha. ✨
+### I am a Data Science graduate student. Feel free to contact me to work on projects!
+### I am seeking an Analytics role. 
 ### My Portfolio: https://sangeetha.pages.dev/
 ### My Kaggle Profile: https://www.kaggle.com/sangeetha007
 <!--
