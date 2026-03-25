@@ -39,9 +39,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet) 
-<!--!(Since December 27, 2023) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,docker,java,cloudflare,vim,sql" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
