@@ -39,5 +39,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet) <!--!(Since December 27, 2023) -->
+![](https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet) 
+<!--!(Since December 27, 2023) -->
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sangeetha-007&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <br>
+  </p>
+<!--!(Since December 27, 2023) -->
