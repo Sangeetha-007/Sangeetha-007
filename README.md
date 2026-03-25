@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,docker,java,cloudflare,vim,sql" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,docker,java,cloudflare,sql,postgres" />
   </a>
 </p>
 
