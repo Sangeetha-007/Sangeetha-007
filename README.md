@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Sangeetha. ✨
 ## I am a Data Science graduate. 
-## I am seeking a ML/Analytics role. 
+## Open to full-time roles in AI/ML Engineering, Data Science, and Python development, and consulting.
 <!--Feel free to contact me to work on projects! -->
 ## My Portfolio: https://sangeetha.pages.dev/
 ## My Kaggle Profile: https://www.kaggle.com/sangeetha007
