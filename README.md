@@ -1,9 +1,9 @@
-# Hi there 👋 I am Sangeetha. ✨
-# I am a Data Science graduate. 
-# Open to full-time roles in AI/ML Engineering, Data Science, and Python development.
+### Hi there 👋 I am Sangeetha. ✨
+### I am a Data Science graduate. 
+### Open to full-time roles in AI/ML Engineering, Data Science, and Python development.
 <!--Feel free to contact me to work on projects! -->
-# My Portfolio: https://sangeetha.pages.dev/
-# My Kaggle Profile: https://www.kaggle.com/sangeetha007
+### My Portfolio: https://sangeetha.pages.dev/
+### My Kaggle Profile: https://www.kaggle.com/sangeetha007
 <!--
 **Sangeetha-007/Sangeetha-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
